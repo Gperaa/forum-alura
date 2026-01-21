@@ -1,6 +1,5 @@
 package br.com.alura.forum.service;
 
-import br.com.alura.forum.domain.topico.StatusTopico;
 import br.com.alura.forum.domain.topico.Topico;
 import br.com.alura.forum.dto.topico.AtualizacaoTopicoDto;
 import br.com.alura.forum.dto.topico.CadastroTopicoDto;
